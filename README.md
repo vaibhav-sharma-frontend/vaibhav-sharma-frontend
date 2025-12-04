@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=22&duration=2600&pause=1200&color=36454F&center=true&vCenter=true&width=600&lines=Hi+I'm+Vaibhav+Sharma;Senior+Software+Engineer;Frontend+Architecture+|+Scalable+Systems+|+Performance"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=22&duration=2600&pause=1200&color=444444&center=true&vCenter=true&width=600&lines=Hi+I'm+Vaibhav+Sharma;Senior+Software+Engineer;Frontend+Architecture+|+Scalable+Systems+|+Performance"
     alt="Typing intro"
   />
 </div>
