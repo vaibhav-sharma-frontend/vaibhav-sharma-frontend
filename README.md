@@ -11,25 +11,29 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vaibhav-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=ffffff&labelColor=333333" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat&labelColor=333333" alt="LinkedIn" />
   </a>
   <a href="https://vaibhav-sharma.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=vercel&logoColor=ffffff&labelColor=333333" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat&labelColor=333333" alt="Portfolio" />
   </a>
   <a href="https://www.behance.net/vaibhav-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-333333?style=flat&logo=behance&logoColor=ffffff&labelColor=333333" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-333333?style=flat&labelColor=333333" alt="Behance" />
   </a>
   <a href="https://github.com/vaibhav-sharma-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=ffffff&labelColor=333333" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat&labelColor=333333" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/vaibhav-sharma-frontend/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-333333?style=flat&logo=leetcode&logoColor=ffffff&labelColor=333333" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-333333?style=flat&labelColor=333333" alt="LeetCode" />
   </a>
   <a href="https://drive.google.com/file/d/128tl8dmUwo5gGZgh4ycoBGFyhRSTazI7/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-333333?style=flat&logo=readme&logoColor=ffffff&labelColor=333333" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-333333?style=flat&labelColor=333333" alt="Resume" />
   </a>
 </p>
-
+<p align="center">
+  <samp>
+    📧 Email: <a href="mailto:vsharma20v@gmail.com" target="_blank" style="color: inherit; text-decoration: underline;">vsharma20v@gmail.com</a>
+  </samp>
+</p>
 <br/>
 
 ### 👋 About
@@ -38,26 +42,13 @@
 - Architecting **scalable systems, micro-frontends, and design systems**
 - Comfortable across the stack: **JavaScript, TypeScript, React, Node.js**
 - Focused on **performance, reliability, DX, and product thinking**
-
 <br/>
 
 ### 🛠 Tech
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL  
-- **Frontend:** React, Redux Toolkit, Tailwind CSS, Sass, GraphQL  
-- **Backend:** Node.js, Express  
-- **Quality:** Jest, React Testing Library, ESLint  
-- **Themes:** Micro-frontends, Performance, Accessibility, Design Systems  
-
-<br/>
-
-### 🌱 Current Focus
-
-- Micro-frontend architecture & independent deployments  
-- Frontend reliability (Sentry, LogRocket, PagerDuty)  
-- Predictive prefetching & perceived performance  
-- Minimal, dark UI with strong UX foundations  
-
+- **Languages & Fundamentals**: JavaScript, TypeScript, HTML5, CSS3, SQL, Data Structures & Algorithms  
+- **Frameworks & Libraries**: React, Redux Toolkit, Next.js, Node.js, Express, Tailwind CSS, Sass, GraphQL, REST, Jest, React Testing Library  
+- **Tools & Platforms**: ChatGPT, Cursor, Git, NPM, Webpack, ESLint, Figma, Browser DevTools, Accessibility 
 <br/>
 
 ### 📈 Stats
@@ -66,15 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-sharma-frontend&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<br/>
-
-### 📬 Contact Me
-
-<p align="center">
-  <samp>
-    📧 Email: <a href="mailto:vsharma20v@gmail.com" target="_blank" style="color: inherit; text-decoration: underline;">vsharma20v@gmail.com</a>
-  </samp>
-</p>
 <p align="center">
   <sub>Developer × Designer ❤️</sub>
 </p>
