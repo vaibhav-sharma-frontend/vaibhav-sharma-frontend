@@ -49,14 +49,6 @@
 - **Languages & Fundamentals**: JavaScript, TypeScript, HTML5, CSS3, SQL, Data Structures & Algorithms  
 - **Frameworks & Libraries**: React, Redux Toolkit, Next.js, Node.js, Express, Tailwind CSS, Sass, GraphQL, REST, Jest, React Testing Library  
 - **Tools & Platforms**: ChatGPT, Cursor, Git, NPM, Webpack, ESLint, Figma, Browser DevTools, Accessibility 
-<br/>
-
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-sharma-frontend&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 <p align="center">
   <sub>Developer × Designer ❤️</sub>
 </p>
