@@ -19,9 +19,6 @@
   <a href="https://leetcode.com/u/vaibhav-sharma-frontend/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-333333?style=flat&labelColor=333333" alt="LeetCode" />
   </a>
-  <a href="https://www.behance.net/vaibhav-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-333333?style=flat&labelColor=333333" alt="Behance" />
-  </a>
   <a href="https://codepen.io/vaibhav-sharma-frontend" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-333333?style=flat&labelColor=333333" alt="Codepen" />
   </a>
